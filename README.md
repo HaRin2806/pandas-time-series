@@ -1,6 +1,7 @@
 # Pandas Time Series Analysis - Vehicle Sales
 
-Dự án thực hành xử lý dữ liệu chuỗi thời gian (Time Series) bằng thư viện Pandas, sử dụng tập dữ liệu doanh số bán xe (Light Vehicle Sales) từ nguồn dữ liệu kinh tế của Cục Dự trữ Liên bang (FRED).
+- Dự án thực hành xử lý dữ liệu chuỗi thời gian (Time Series) bằng thư viện Pandas, sử dụng tập dữ liệu doanh số bán xe (Light Vehicle Sales) từ nguồn dữ liệu kinh tế của Cục Dự trữ Liên bang (FRED).
+- https://roadmap.sh/projects/pandas-time-series
 
 ## Mục tiêu dự án
 Dự án này tập trung vào việc làm quen với các cấu trúc dữ liệu thời gian và các công cụ mạnh mẽ của Pandas để phân tích dữ liệu lịch sử. Các kỹ thuật chính bao gồm:
